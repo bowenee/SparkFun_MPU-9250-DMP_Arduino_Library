@@ -1,4 +1,4 @@
-SparkFun MPU-9250 Digital Motion Processor (DMP) Arduino Library
+SparkFun MPU-9250 Digital Motion Processor (DMP) Arduino Library（使用官方库移植，nba_bh_stm32l476 及esp32 arduino上均测试通过）
 ========================================
 
 ![SparkFun MPU-9250](https://cdn.sparkfun.com/assets/parts/1/1/3/0/6/13762-SparkFun_IMU_Breakout_-_MPU-9250-00.jpg)
